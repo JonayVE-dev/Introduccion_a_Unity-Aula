@@ -8,7 +8,7 @@
 
 1. Creación de un proyecto usando unity 3D.
 
-2. Creación de dos objetos 3D, ambos cubos pero uno reescalado para simular una plataforma.
+2. Creación de tres objetos 3D, una esfera y dos cubos, uno reescalado para simular una plataforma.
 
 3. Starter Assets para Third Person incluidos en el proyecto.
    
@@ -22,6 +22,6 @@
     
 10. Creación de un terreno modificado a través de los pinceles de elevación y pintura.
 
-11. Creación de un [script](miScript.cs) que imprime por consola el nombre del objeto que lo posee.
+11. Creación de un [script](miScript.cs) que imprime por consola el nombre y el tag del objeto que lo posee.
     
 13. Etiquetas personalizadas añadidas a cada objeto.
