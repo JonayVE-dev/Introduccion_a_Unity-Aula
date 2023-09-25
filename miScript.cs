@@ -13,6 +13,6 @@ public class miScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Debug.Log("Soy un " + gameObject.name);
+        Debug.Log("Hola, soy un " + gameObject.name + " y mi tag es " + gameObject.tag);
     }
 }
